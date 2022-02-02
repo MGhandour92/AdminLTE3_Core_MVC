@@ -25,7 +25,9 @@
 <br />
 <div align="center">
 
-[![Product Logo][product-logo]][https://github.com/MGhandour92/AdminLTE3_Core_MVC]
+  <a href="https://github.com/MGhandour92/AdminLTE3_Core_MVC">
+    <img src="images/ProjectLogo.png" alt="Logo">
+  </a>
 
   <h3 align="center">Admin LTE 3 - MVC Core 5 - VS Template</h3>
 
