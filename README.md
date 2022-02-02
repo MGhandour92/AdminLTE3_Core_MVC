@@ -22,8 +22,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <span markdown="1"> [![Product Name Screen Shot][product-logo]]</span>
 
+  <a href="https://github.com/MGhandour92/AdminLTE3_Core_MVC">
+    <img src="images/ProjectLogo.png" alt="Logo" width="80" height="80">
+  </a>
   <h3 align="center">Admin LTE 3 - MVC Core 5 - VS Template</h3>
 
   <p align="center">
@@ -73,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Admin LTE Core Screen Shot][product-screenshot]]
+![Admin LTE Core Screen Shot][product-screenshot]
 
 
 The project tends to facilitate the use of Admin LTE 3 template for Dot Net Developers.
@@ -110,24 +112,22 @@ You need to have.
 
 1. Download the zip file of the template `VS_ready_template/Dashboard Admin LTE Template.zip`
 2. Put it in (C:\Users\%USERNAME%\Documents\Visual Studio 2022\Templates\ProjectTemplates) replace Visual studio version eg. 19
-
-[![Templates Folder][templates-folder]]
-
+![Templates Folder][templates-folder]
 3. Open Visual Studio and search for the template
 
-[![Search Template][open-vs]]
+![Search Template][open-vs]
 
 4. Choose your path and name
 
-[![Choose name and path][choose-path-name]]
+![Choose name and path][choose-path-name]
 
 5. Check solution explorer
 
-[![Solution Explorer][solution-exp]]
+![Solution Explorer][solution-exp]
 
 6. Run Project
 
-[![Run Project][run-proj]]
+![Run Project][run-proj]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
