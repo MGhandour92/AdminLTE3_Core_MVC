@@ -21,7 +21,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="center" markdown="1">
   [![Product Name Screen Shot][product-logo]]
 
   <h3 align="center">Admin LTE 3 - MVC Core 5 - VS Template</h3>
