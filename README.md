@@ -25,7 +25,7 @@
 <br />
 <div align="center">
 
-  [![Product Logo][https://github.com/MGhandour92/AdminLTE3_Core_MVC]][product-logo]
+[![Product Logo][product-logo]][https://github.com/MGhandour92/AdminLTE3_Core_MVC]
 
   <h3 align="center">Admin LTE 3 - MVC Core 5 - VS Template</h3>
 
@@ -191,6 +191,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Mohamed El Ghandour - m.el_ghandour@hotmail.com 
+
 Project Link: (https://github.com/MGhandour92/AdminLTE3_Core_MVC)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
