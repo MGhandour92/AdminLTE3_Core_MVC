@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<!--This template used from https://github.com/othneildrew/Best-README-Template -->
+<!--This template used from https://github.com/MGhandour92/AdminLTE3_Core_MVC -->
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -10,12 +10,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -24,22 +23,22 @@
 <div align="center">
 
   <a href="https://github.com/MGhandour92/AdminLTE3_Core_MVC">
-    <img src="images/ProjectLogo.png" alt="Logo" width="80" height="80">
+    <img src="images/ProjectLogo.png" alt="Logo">
   </a>
   <h3 align="center">Admin LTE 3 - MVC Core 5 - VS Template</h3>
 
   <p align="center">
     Ready made template that can be used to build Dot Net core (5) Web Project that have Admin LTE design ready
-    <!-- <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://github.com/MGhandour92/AdminLTE3_Core_MVC"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/MGhandour92/AdminLTE3_Core_MVC">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/MGhandour92/AdminLTE3_Core_MVC/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p> -->
+    <a href="https://github.com/MGhandour92/AdminLTE3_Core_MVC/issues">Request Feature</a>
+  </p>
 </div>
 
 
@@ -134,18 +133,17 @@ You need to have.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -155,10 +153,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/MGhandour92/AdminLTE3_Core_MVC/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 <!-- CONTRIBUTING -->
@@ -180,27 +177,26 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+<!-- ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Mohamed El Ghandour - m.el_ghandour@hotmail.com 
+Project Link: (https://github.com/MGhandour92/AdminLTE3_Core_MVC)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -211,26 +207,24 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [React Icons](https://react-icons.github.io/react-icons/search) 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+ <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]:https://img.shields.io/github/contributors/MGhandour92/AdminLTE3_Core_MVC.svg?style=for-the-badge
+[contributors-url]: https://github.com/MGhandour92/AdminLTE3_Core_MVC/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MGhandour92/AdminLTE3_Core_MVC.svg?style=for-the-badge
+[forks-url]: https://github.com/MGhandour92/AdminLTE3_Core_MVC/network/members
+[stars-shield]: https://img.shields.io/github/stars/MGhandour92/AdminLTE3_Core_MVC.svg?style=for-the-badge
+[stars-url]: https://github.com/MGhandour92/AdminLTE3_Core_MVC/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MGhandour92/AdminLTE3_Core_MVC.svg?style=for-the-badge
+[issues-url]: https://github.com/MGhandour92/AdminLTE3_Core_MVC/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/moghandour/
 [product-screenshot]: images/ProductScreen.png
 [product-logo]: images/ProjectLogo.png
 [templates-folder]: images/ProjectTemplates.png
