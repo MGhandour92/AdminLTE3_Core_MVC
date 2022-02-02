@@ -73,7 +73,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](#)
+[![Admin LTE Core Screen Shot][product-screenshot]]
+
 
 The project tends to facilitate the use of Admin LTE 3 template for Dot Net Developers.
 You Can:
@@ -98,7 +99,7 @@ You Can:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Lets start with th first step, importing the template
+Lets start with importing the template
 
 ### Prerequisites
 
@@ -107,19 +108,26 @@ You need to have.
 
 ### Installation
 
-1. Download the zip file of the template [![Ready Template][product-readytemplate]]
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Download the zip file of the template `VS_ready_template/Dashboard Admin LTE Template.zip`
+2. Put it in (C:\Users\%USERNAME%\Documents\Visual Studio 2022\Templates\ProjectTemplates) replace Visual studio version eg. 19
+
+[![Templates Folder][templates-folder]]
+
+3. Open Visual Studio and search for the template
+
+[![Search Template][open-vs]]
+
+4. Choose your path and name
+
+[![Choose name and path][choose-path-name]]
+
+5. Check solution explorer
+
+[![Solution Explorer][solution-exp]]
+
+6. Run Project
+
+[![Run Project][run-proj]]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -225,4 +233,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/ProductScreen.png
 [product-logo]: images/ProjectLogo.png
-[product-readytemplate]: VS_ready_template/DashboardAdminTemplate.zip
+[templates-folder]: images/ProjectTemplates.png
+[open-vs]: images/OpenVisualStudio.png
+[choose-path-name]: images/ChoosePathandName.png
+[solution-exp]: images/SolutionExplorer.png
+[run-proj]: images/Run.png
