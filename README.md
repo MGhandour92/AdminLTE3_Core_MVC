@@ -10,10 +10,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
 <div align="center">
 
-[![Contributors](contributors-shield)](contributors-url)
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -26,12 +25,8 @@
 <br />
 <div align="center">
 
+  [![Product Logo][https://github.com/MGhandour92/AdminLTE3_Core_MVC]][product-logo]
 
-[![Product Logo](product-logo)](https://github.com/MGhandour92/AdminLTE3_Core_MVC)
-
-  <!-- <a href="https://github.com/MGhandour92/AdminLTE3_Core_MVC">
-    <img src="images/ProjectLogo.png" alt="Logo">
-  </a> -->
   <h3 align="center">Admin LTE 3 - MVC Core 5 - VS Template</h3>
 
   <p align="center">
